@@ -1,0 +1,8 @@
+Install dependencies
+- bundle install
+
+Serve with live reload
+- jekyll serve -l
+
+Recompile project and serve with live reload
+- bundle exec jekyll serve -l

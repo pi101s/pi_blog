@@ -26,14 +26,13 @@ email: saul101.pi@outlook.com
 description: >-
   Blog in which I post the videogame projects I'm working in
   and my thought process while making them.
-baseurl: "/pi_blog"
-url: ""
-#domain: "pi101s.github.io"
-#url: "https://pi101s.github.io" # http://example.com
+baseurl: "" # /blog
+domain: "pi101s.github.io"
+url: "https://pi101s.github.io" # http://example.com
 twitter_username: saulbv101
 
 # Build settings
-#theme: jekyll-whiteglass
+theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
