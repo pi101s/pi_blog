@@ -33,7 +33,6 @@ url: ""
 twitter_username: saulbv101
 
 # Build settings
-#theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
